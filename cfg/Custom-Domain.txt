@@ -1,0 +1,4 @@
+payload:
+  - '+.hostloc.com'
+  - '+.nnr.moe'
+  - '+.v2rayssr.com'
